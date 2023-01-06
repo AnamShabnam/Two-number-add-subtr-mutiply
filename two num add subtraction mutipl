@@ -1,0 +1,10 @@
+num1 = int(input("Enter first number:"))
+num2 = int(input("Enter second number:"))
+
+add = num1 + num2
+subtr = num1 - num2
+mutipl = num1 * num2
+
+print("Addaition",add)
+print("subtration",subtr)
+print("mutiply",mutipl)
